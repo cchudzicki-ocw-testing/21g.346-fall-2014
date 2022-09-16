@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, course mechanics, assignments, grading, technology,
+  enrollment limits, academic integrity, and required books.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
